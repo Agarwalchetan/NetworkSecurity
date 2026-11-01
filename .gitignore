@@ -1,0 +1,92 @@
+# Python
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+.conda/
+
+# Conda
+conda-meta/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.nbconvert.ipynb
+
+# Machine Learning Models
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.pb
+*.keras
+*.safetensors
+
+# Datasets
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.zip
+*.tar
+*.gz
+
+# Logs and Outputs
+logs/
+*.log
+outputs/
+runs/
+mlruns/
+lightning_logs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables / Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type Checking
+.mypy_cache/
+.dmypy.json
+.pyre/
+.ruff_cache/
