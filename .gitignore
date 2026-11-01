@@ -34,15 +34,15 @@ conda-meta/
 *.safetensors
 
 # Datasets
-data/
-datasets/
-*.csv
-*.tsv
-*.parquet
-*.feather
-*.zip
-*.tar
-*.gz
+# data/
+# datasets/
+# *.csv
+# *.tsv
+# *.parquet
+# *.feather
+# *.zip
+# *.tar
+# *.gz
 
 # Logs and Outputs
 logs/
