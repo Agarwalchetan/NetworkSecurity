@@ -45,8 +45,8 @@ conda-meta/
 # *.gz
 
 # Logs and Outputs
-logs/
-*.log
+# logs/
+# *.log
 outputs/
 runs/
 mlruns/
